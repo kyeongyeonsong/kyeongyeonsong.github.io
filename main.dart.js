@@ -69205,7 +69205,7 @@ q=p.z
 q===$&&A.b()
 return new A.MO(s,new A.La(q,r,new A.aUn(),$.bi3(),null),null)},
 ahY(a,b){if(b.k(0,B.ok))a.e2(0,"/home")
-else if(b.k(0,B.jG))a.e2(0,"/auth")
+else if(b.k(0,B.jG))a.e2(0,"/home")
 else if(b.k(0,B.ol))a.e2(0,"/confirm")
 else if(b.zB(new A.aUl())==null)b.j(0)},
 Jp(a){return this.ahL(a)},
